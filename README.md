@@ -12,15 +12,24 @@ A (not so) simple color change exploration for Java console. To run [click here]
 
 <hr>
 
-<h4>GOAL(S):</h4>
+<h3>FUTURE-ish UPDATES</h3>
+
+- Create method to call colors from ConsoleColors.java
+- Add Displayed list for:
+  - bold colors
+  - underline colors
+  - background colors^
+  - high intensity colors
+  - bold high intensity colors
+  - high intensity backgrounds^^ 
+
+<h3>GOAL(S):</h3>
 
 - To take what I learn and place it into a simple text RPG ... someday.
 - To practice coding in a way that's fun, helps me grow my skills, and provides a break from the main programming stuff I'm learning. 
 
-<h4>List of Questions to Explore</h4> 
-(as of 03-07-22)
+<h3>QUESTIONS TO EXPLORE</h3> 
 
-<br>
 
 - ~~Can I add color to README files in Replit's markdown setup?~~
   - No. As for as I know Replit does not allow it.
@@ -49,19 +58,6 @@ A (not so) simple color change exploration for Java console. To run [click here]
 <br><br>
 - **META** Even if I figure out how to do the above can I understand and breakdown my own code to a stranger in a way it makes sense?
 
-<h3>List of Planned Future Updates</h3>
-Side project/no set dates for the following:
-<br><br>
-
-- Create method to call colors from ConsoleColors.java
-- Add Displayed list for:
-  - bold colors
-  - underline colors
-  - background colors^
-  - high intensity colors
-  - bold high intensity colors
-  - high intensity backgrounds^^ 
-
 <br>
 
 <h4>Resources/References/Credits:</h4> 
@@ -70,4 +66,4 @@ Side project/no set dates for the following:
 <br><br>
 
 
-**^, ^^**: ⁱ ᵈᵒⁿ'ᵗ ᵏⁿᵒʷ ⁱᶠ ᵗʰᵃᵗ ʷⁱˡˡ ᵇᵉ ⁱⁿ ᵗʰⁱˢ ᵖʳᵒʲᵉᶜᵗ. ᵗʰᵉ ᵇᵃᶜᵏᵍʳᵒᵘⁿᵈ ᵐⁱᵍʰᵗ ᵇᵉ ᵃ ʷʰᵒˡᵉ ᵒᵗʰᵉʳ ˢᵉᵖᵃʳᵃᵗᵉ ᵗʰⁱⁿᵍ ᶠᵒʳ ᵗʰᵉ ˢᵃᵏᵉ ᵒᶠ ᵏᵉᵉᵖⁱⁿᵍ ᵗʰⁱⁿᵍˢ ˢⁱᵐᵖˡᵉ. ⁱ'ᵐ ⁿᵒᵗ ᵗʳʸⁱⁿᵍ ᵗᵒ ᵗᵘʳⁿ ᵐᵉ ʳᵉˢᵉᵃʳᶜʰⁱⁿᵍ ʲᵃᵛᵃ'ˢ ᵃᵇⁱˡⁱᵗⁱᵉˢ ⁱⁿᵗᵒ ᵃ ᵍᵃᵐᵉ... ʸᵉᵗ. 
+**^** / **^^**: ⁱ ᵈᵒⁿ'ᵗ ᵏⁿᵒʷ ⁱᶠ ᵗʰᵃᵗ ʷⁱˡˡ ᵇᵉ ⁱⁿ ᵗʰⁱˢ ᵖʳᵒʲᵉᶜᵗ. ᵗʰᵉ ᵇᵃᶜᵏᵍʳᵒᵘⁿᵈ ᵐⁱᵍʰᵗ ᵇᵉ ᵃ ʷʰᵒˡᵉ ᵒᵗʰᵉʳ ˢᵉᵖᵃʳᵃᵗᵉ ᵗʰⁱⁿᵍ ᶠᵒʳ ᵗʰᵉ ˢᵃᵏᵉ ᵒᶠ ᵏᵉᵉᵖⁱⁿᵍ ᵗʰⁱⁿᵍˢ ˢⁱᵐᵖˡᵉ. ⁱ'ᵐ ⁿᵒᵗ ᵗʳʸⁱⁿᵍ ᵗᵒ ᵗᵘʳⁿ ᵐᵉ ʳᵉˢᵉᵃʳᶜʰⁱⁿᵍ ʲᵃᵛᵃ'ˢ ᵃᵇⁱˡⁱᵗⁱᵉˢ ⁱⁿᵗᵒ ᵃ ᵍᵃᵐᵉ... ʸᵉᵗ. 
