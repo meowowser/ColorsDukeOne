@@ -20,18 +20,21 @@ class Main {
  * visual styling and for the colors to show.
  */
     System.out.println("\n"+ "H" + 
-                       ("\033[0;30m" + ("\033[47m" + "E")) + "\033[0;31mL"
-                       + "\033[0;32mL" + "\033[0;33mO" + " " 
-                       + "\033[0;34mW" + "\033[0;35mO"+ "\033[0;36mR"
+                       ("\033[0;30m" + ("\033[47m" + "E")) 
+                       + "\033[0;31mL" + "\033[0;32mL" 
+                       + "\033[0;33mO" + " " + "\033[0;34mW" 
+                       + "\033[0;35mO"+ "\033[0;36mR"
                        + ("\033[0;30m" + ("\033[47m" + "L")) 
                        + "\033[0;37mD" + "\033[0;33m!");
 
 
     //Prints display title 
-    System.out.println("\033[0m \n" + "REGULAR ANSI COLORS IN JAVA CONSOLE:" + "\n");
+    System.out.println("\033[0m \n" 
+                       + "REGULAR ANSI COLORS IN JAVA CONSOLE:" 
+                       + "\n");
 
     //Prints color and ANSI code title | \t is for tabbing
-    System.out.println("COLOR: \t \t ANSI CODE: \n");
+    System.out.println("COLOR: \t \t ANSI CODE:");
 
     // There's probably a cleaner way to do it but this works for now. 
     System.out.println("\033[0;30m" 
@@ -55,6 +58,14 @@ class Main {
 
 
     
+/* This instance of ConsoleColors is named text. 
+ * When you see text.color it is calling ANSI color 
+ * code from the file ConsoleColors.java. No idea why BLACK doesn't work.
+*/  
+    System.out.println("\n" + "Display looks the same but it is coded in one super long string!" + "\n" + "Look at ConsoleColors.java file to view.");
+  ConsoleColors text = new ConsoleColors();
+    text.color();
+        
 
 
   }
