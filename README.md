@@ -4,7 +4,8 @@
 <h1>MEOWSER EXPERIMENT: #0001: Playing w/Java & Colors</h1> 
 
 <h3>DESCRIPTION:</h3> 
-A (not so) simple color change exploration for Java console. 
+
+A (not so) simple color change exploration for Java console. To run [click here](https://replit.com/@meowser/ColorsDukeOne).
 <br>
 
 **At this moment, this REPL prints ANSI colors with their color codes for Java console.**
